@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI_Calculator_Application_SOAP", "BMI_Calculator_SOC_Application\BMI_Calculator_Application_SOAP.csproj", "{86262546-95DF-4E6E-B6C5-4C8B9C2D6F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI_Calculator_Application_REST", "BMI_Calculator_Application_REST\BMI_Calculator_Application_REST.csproj", "{44A825D2-0133-43D1-ADD2-887ED7DAA1A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI_Web_Form", "BMI_Web_Form\BMI_Web_Form.csproj", "{B83EA7F1-9CEC-4F32-AFE6-ACA5638BBD43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Phase I Explanation and Diagram", "Phase I Explanation and Diagram", "{D423014A-68B6-4E9C-8608-81B2516E5922}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Summer 2022 ASU\CSE 460 Software Analysis and Design\Phase I Diagram and Explanation.pdf = ..\..\Summer 2022 ASU\CSE 460 Software Analysis and Design\Phase I Diagram and Explanation.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86262546-95DF-4E6E-B6C5-4C8B9C2D6F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86262546-95DF-4E6E-B6C5-4C8B9C2D6F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86262546-95DF-4E6E-B6C5-4C8B9C2D6F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86262546-95DF-4E6E-B6C5-4C8B9C2D6F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A825D2-0133-43D1-ADD2-887ED7DAA1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A825D2-0133-43D1-ADD2-887ED7DAA1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A825D2-0133-43D1-ADD2-887ED7DAA1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A825D2-0133-43D1-ADD2-887ED7DAA1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B83EA7F1-9CEC-4F32-AFE6-ACA5638BBD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83EA7F1-9CEC-4F32-AFE6-ACA5638BBD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83EA7F1-9CEC-4F32-AFE6-ACA5638BBD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83EA7F1-9CEC-4F32-AFE6-ACA5638BBD43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC012990-0D2C-4CA9-8974-A397EA289F76}
+	EndGlobalSection
+EndGlobal
